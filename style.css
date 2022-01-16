@@ -1,0 +1,43 @@
+
+
+.mj {
+    display: inline-block;
+    padding-top: 7.0px;
+    padding-right: 10.0px;
+    padding-bottom: 10.0px;
+    padding-left: 10.0px;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #4eb5f1;
+    text-align: center;
+    transition: all 0.2s;
+};
+
+table {
+    position: absolute;
+    left: 30%;
+}
+
+.script {
+    table-layout: fixed;
+    display: inline-block;
+    padding-top: 1px;
+    padding-right: 2px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #4eb5f1;
+    text-align: center;
+    transition: all 0.2s;
+};
